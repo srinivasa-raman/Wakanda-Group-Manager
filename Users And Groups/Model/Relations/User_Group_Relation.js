@@ -1,0 +1,1 @@
+﻿(function(){	var	__User_Group_Relation 	= model.User_Group_Relation 	= new NNRelation();})();

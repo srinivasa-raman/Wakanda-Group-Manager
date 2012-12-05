@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><permissions>
+<allow action="read" groupName="readUsers" groupID="04CE8282524245BD83B7594221B3A7AE" resource="Model.User" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="create" groupName="createUsers" groupID="2C870FECFF774776B02DE56BFE87F106" resource="Model.User" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="update" groupName="updateUsers" groupID="3FC24036822A4D45879AC9A8F842B3E9" resource="Model.User" temporaryForcePermissions="false" type="dataClass"/>
+<allow action="remove" groupName="deleteUsers" groupID="3D5C5ECFAB6D46B18482B679650DBCA6" resource="Model.User" temporaryForcePermissions="false" type="dataClass"/>
+</permissions>

@@ -1,0 +1,1 @@
+﻿(function(){	var	__Group 		= model.Group = new NNRelationMember(),	__GroupEvents	= __Group.events = {};		__GroupEvents.onRemove = function(){		this['userRelations'].remove();	}})();

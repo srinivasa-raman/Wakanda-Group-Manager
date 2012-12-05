@@ -1,0 +1,1 @@
+﻿require('utils').syncDirectoryGroups();directory.setLoginListener("loginHandler", __myNameSpace.META.ADMINISTRATOR_GROUP);
